@@ -1,0 +1,11 @@
+D:\Net MVC\NETMVC\obj\Debug\net9.0\.NETMVC.csproj.AssemblyReference.cache
+D:\Net MVC\NETMVC\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Net MVC\NETMVC\obj\Debug\net9.0\.NETMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Net MVC\NETMVC\obj\Debug\net9.0\.NETMVC.AssemblyInfoInputs.cache
+D:\Net MVC\NETMVC\obj\Debug\net9.0\.NETMVC.AssemblyInfo.cs
+D:\Net MVC\NETMVC\obj\Debug\net9.0\.NETMVC.csproj.CoreCompileInputs.cache
+D:\Net MVC\NETMVC\obj\Debug\net9.0\.NETMVC.MvcApplicationPartsAssemblyInfo.cs
+D:\Net MVC\NETMVC\obj\Debug\net9.0\.NETMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\Net MVC\NETMVC\obj\Debug\net9.0\.NETMVC.RazorAssemblyInfo.cache
+D:\Net MVC\NETMVC\obj\Debug\net9.0\.NETMVC.RazorAssemblyInfo.cs
+D:\Net MVC\NETMVC\obj\Debug\net9.0\.NETMVC.sourcelink.json
